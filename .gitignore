@@ -1,0 +1,12 @@
+# Ignore IDE settings (e.g., PyCharm)
+.idea/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore output plots and CSVs
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
